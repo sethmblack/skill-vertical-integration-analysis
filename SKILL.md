@@ -4,7 +4,7 @@ description: Analyze operations for dependency vulnerabilities and integration o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5264
+  version: 1.0.5265
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - vertical-integration-analysis
